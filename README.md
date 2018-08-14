@@ -1,0 +1,1 @@
+I created this blog clone project in a Udemy course using a virtual environment with Django 1.10.5 & Python 3.5.2
