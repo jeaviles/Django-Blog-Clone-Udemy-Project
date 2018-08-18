@@ -1,1 +1,1 @@
-I created this blog clone project in a Udemy course using a virtual environment with Django 1.10.5 & Python 3.5.2
+I created this blog clone project in a Udemy course using a virtual environment with Django 1.10.5 & Python 3.5.2. In addition, I attached an export file of my virtual environment, so that the project could be ran without issue.
